@@ -80,7 +80,7 @@ const Hero = () => {
         {PROFILE.subheading}
       </p>
       <a
-        href="/Enrico Hezkiel Sirait-resume.pdf"
+        href="/EnricoHezkielSirait_CV_Eng (V2).pdf"
         target="_blank"
         rel="noopener noreferrer"
         download
